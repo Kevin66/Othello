@@ -1,0 +1,15 @@
+<h1>Règles du jeu</h1>
+<BLOCKQUOTE>Othello est un jeu de stratégie à deux joueurs : Noir et Blanc. Il se joue sur un plateau unicolore de 64 cases avec des pions bicolores, noirs d'un côté et blancs de l'autre.</br>
+<BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE><img src="plateauVierge.jpeg" width="200" height="200"></BLOCKQUOTE></BLOCKQUOTE></BLOCKQUOTE>
+Au début de la partie, deux pions noirs et deux pions blancs sont placés comme ci-desous :</br> 
+<BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE><img src="plateauInit.jpeg" width="200" height="200"></BLOCKQUOTE></BLOCKQUOTE></BLOCKQUOTE>
+Noir commence toujours et les deux adversaires jouent ensuite à tour de rôle. </br></br>
+
+<b>But du jeu : </b>avoir plus de pions de sa couleur que l'adversaire à la fin de la partie.</br></br>
+<b>Pose d'un pion :</b> le joueur doit poser un pion de sa couleur sur une case vide du plateau, adjacente à un pion adverse. Il doit également, en posant son pion, encadrer un ou plusieurs pions adverses entre le pion qu'il pose et un pion à sa couleur, déjà placé sur le plateau. Il retourne alors de sa couleur le ou les pions qu'il vient d'encadrer. Les pions ne sont ni retirés du plateau, ni déplacés d'une case à l'autre. </br></br>
+
+
+Exemple : <BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE>Le joueur Noir joue...<img src="plateauEx1-1.jpeg" width="200" height="200"></br> Puis retourne un pion</br><img src="plateauEx1-2.jpeg" width="200" height="200"> C'est maintenant au tour du joueur Blanc</BLOCKQUOTE></BLOCKQUOTE></BLOCKQUOTE>
+
+Si un joueur est bloqué, il passe son tour.</br></br>
+ <b>Fin de la partie : </b> la partie est terminée lorsque aucun des deux joueurs ne peut plus jouer. Cela arrive généralement lorsque les 64 cases sont occupées. Mais il se peut qu'il reste des cases vides où personne ne peut plus jouer. Dans ce cas, on compte les pions pour déterminer le score. Les cases vides sont données au vainqueur.

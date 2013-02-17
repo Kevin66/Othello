@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<othello>
+	<partie id="0" tour="1" main="1" type1="Human" type2="Human">
+		<choixligne>0</choixligne>
+		<choixcolone>0</choixcolone>
+	</partie>
+	<plateau>
+		<ligne num="0">
+			<colone num="0">0</colone>
+			<colone num="1">0</colone>
+			<colone num="2">0</colone>
+			<colone num="3">0</colone>
+			<colone num="4">0</colone>
+			<colone num="5">0</colone>
+			<colone num="6">0</colone>
+			<colone num="7">0</colone>
+		</ligne>
+		<ligne num="1">
+			<colone num="0">0</colone>
+			<colone num="1">0</colone>
+			<colone num="2">0</colone>
+			<colone num="3">0</colone>
+			<colone num="4">0</colone>
+			<colone num="5">0</colone>
+			<colone num="6">0</colone>
+			<colone num="7">0</colone>
+		</ligne>
+		<ligne num="2">
+			<colone num="0">0</colone>
+			<colone num="1">0</colone>
+			<colone num="2">0</colone>
+			<colone num="3">0</colone>
+			<colone num="4">0</colone>
+			<colone num="5">0</colone>
+			<colone num="6">0</colone>
+			<colone num="7">0</colone>
+		</ligne>
+		<ligne num="3">
+			<colone num="0">0</colone>
+			<colone num="1">0</colone>
+			<colone num="2">0</colone>
+			<colone num="3">2</colone>
+			<colone num="4">1</colone>
+			<colone num="5">0</colone>
+			<colone num="6">0</colone>
+			<colone num="7">0</colone>
+		</ligne>
+		<ligne num="4">
+			<colone num="0">0</colone>
+			<colone num="1">0</colone>
+			<colone num="2">0</colone>
+			<colone num="3">1</colone>
+			<colone num="4">2</colone>
+			<colone num="5">0</colone>
+			<colone num="6">0</colone>
+			<colone num="7">0</colone>
+		</ligne>
+		<ligne num="5">
+			<colone num="0">0</colone>
+			<colone num="1">0</colone>
+			<colone num="2">0</colone>
+			<colone num="3">0</colone>
+			<colone num="4">0</colone>
+			<colone num="5">0</colone>
+			<colone num="6">0</colone>
+			<colone num="7">0</colone>
+		</ligne>
+		<ligne num="6">
+			<colone num="0">0</colone>
+			<colone num="1">0</colone>
+			<colone num="2">0</colone>
+			<colone num="3">0</colone>
+			<colone num="4">0</colone>
+			<colone num="5">0</colone>
+			<colone num="6">0</colone>
+			<colone num="7">0</colone>
+		</ligne>
+		<ligne num="7">
+			<colone num="0">0</colone>
+			<colone num="1">0</colone>
+			<colone num="2">0</colone>
+			<colone num="3">0</colone>
+			<colone num="4">0</colone>
+			<colone num="5">0</colone>
+			<colone num="6">0</colone>
+			<colone num="7">0</colone>
+		</ligne>
+			
+	</plateau>
+</othello>
